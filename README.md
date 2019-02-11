@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Jiaxin Shi (史佳欣)
 
-You can use the [editor on GitHub](https://github.com/shijx12/shijx12.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Ph.D. student at Knowledge Engineering Group of Tsinghua University, supervised fully by Professor Juanzi Li and partly by Professor Zhiyuan Liu. I have visited at Nanyang Technological University from Sep. 2018 to Mar. 2019, advised by Professor Hanwang Zhang. My research interests include:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Document summarization
+- Neural-symbolic learning
+- explainable reasoning
 
-### Markdown
+### Publications
+**Jiaxin Shi**, Lei Hou, Juanzi Li, Zhiyuan Liu, and Hanwang Zhang. **Learning to Embed Sentences Using Attentive Recursive Trees**. In Proceedings of the 33th AAAI Conference on Artificial Intelligence. **AAAI 2019**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[[pdf](https://arxiv.org/abs/1811.02338)][[code](https://github.com/shijx12/AR-Tree)]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Jiaxin Shi**\*, Chen Liang\*, Lei Hou, Juanzi Li, Zhiyuan Liu, and Hanwang Zhang. **DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization**. In Proceedings of the 33th AAAI Conference on Artificial Intelligence. **AAAI 2019**. (*: equal contribution.)
 
-- Bulleted
-- List
+[[pdf](https://arxiv.org/abs/1811.02394)][[code](https://github.com/lliangchenc/DeepChannel)]
 
-1. Numbered
-2. List
+Yixin Cao, **Jiaxin Shi**, Juanzi Li, Zhiyuan Liu, and Chengjiang Li. **On Modeling Sense Relatedness in Multi-prototype Word Embedding**. In Proceedings of the Eighth International Joint Conference on Natural Language Processing. **IJCNLP 2017**.
 
-**Bold** and _Italic_ and `Code` text
+[[pdf](http://aclweb.org/anthology/I17-1024)]
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shijx12/shijx12.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+- Email: shijx12@gmail.com
+- Github: shijx12
