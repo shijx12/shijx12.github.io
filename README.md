@@ -1,4 +1,4 @@
-## Jiaxin Shi (史佳欣)
+# Jiaxin Shi (史佳欣)
 
 I'm a Ph.D. student at Knowledge Engineering Group of Tsinghua University, supervised fully by Professor Juanzi Li and partly by Professor [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). I have visited at Nanyang Technological University from Sep. 2018 to Mar. 2019, advised by Professor [Hanwang Zhang](http://www.ntu.edu.sg/home/hanwangzhang/#aboutme). My research interests include:
 - Document summarization
@@ -6,6 +6,9 @@ I'm a Ph.D. student at Knowledge Engineering Group of Tsinghua University, super
 - Explainable reasoning
 
 ### Publications
+**Jiaxin Shi**, Hanwang Zhang, and Juanzi Li. **Explainable and Explicit Visual Reasoning over Scene Graphs**. In arXiv.
+[[pdf](https://arxiv.org/abs/1812.01855)]
+
 **Jiaxin Shi**, Lei Hou, Juanzi Li, Zhiyuan Liu, and Hanwang Zhang. **Learning to Embed Sentences Using Attentive Recursive Trees**. In Proceedings of the 33th AAAI Conference on Artificial Intelligence. **AAAI 2019**.
 [[pdf](https://arxiv.org/abs/1811.02338)][[code](https://github.com/shijx12/AR-Tree)]
 
@@ -19,4 +22,3 @@ Yixin Cao, **Jiaxin Shi**, Juanzi Li, Zhiyuan Liu, and Chengjiang Li. **On Model
 
 ### Contact
 - Email: shijx12@gmail.com
-- Github: shijx12
