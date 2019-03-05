@@ -6,8 +6,8 @@ I'm a Ph.D. student at Knowledge Engineering Group of Tsinghua University, super
 - Explainable reasoning
 
 ### Publications
-**Jiaxin Shi**, Hanwang Zhang, and Juanzi Li. **Explainable and Explicit Visual Reasoning over Scene Graphs**. In arXiv.
-[[pdf](https://arxiv.org/abs/1812.01855)]
+**Jiaxin Shi**, Hanwang Zhang, and Juanzi Li. **Explainable and Explicit Visual Reasoning over Scene Graphs**. **CVPR 2019**.
+[[pdf](https://arxiv.org/abs/1812.01855)][[code](https://github.com/shijx12/XNM-Net)]
 
 **Jiaxin Shi**, Lei Hou, Juanzi Li, Zhiyuan Liu, and Hanwang Zhang. **Learning to Embed Sentences Using Attentive Recursive Trees**. In Proceedings of the 33th AAAI Conference on Artificial Intelligence. **AAAI 2019**.
 [[pdf](https://arxiv.org/abs/1811.02338)][[code](https://github.com/shijx12/AR-Tree)]
