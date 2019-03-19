@@ -3,7 +3,7 @@
 I'm a Ph.D. student at Knowledge Engineering Group of Tsinghua University, supervised fully by Professor Juanzi Li and partly by Professor [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). I have visited at Nanyang Technological University from Sep. 2018 to Mar. 2019, advised by Professor [Hanwang Zhang](http://www.ntu.edu.sg/home/hanwangzhang/#aboutme). My research interests include:
 - Document summarization
 - Neural-symbolic learning
-- Explainable reasoning
+- Explainable neural reasoning
 
 ### Publications
 **Jiaxin Shi**, Hanwang Zhang, and Juanzi Li. **Explainable and Explicit Visual Reasoning over Scene Graphs**. **CVPR 2019**.
