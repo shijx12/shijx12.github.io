@@ -6,6 +6,9 @@ I'm a Ph.D. student at Knowledge Engineering Group of Tsinghua University, super
 - Explainable neural reasoning
 
 ### Publications
+Chengjiang Li, Yixin Cao, Lei Hou, **Jiaxin Shi**, Juanzi Li and Tat-Seng Chua. **Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model**. **EMNLP 2019**.
+[[pdf](https://www.aclweb.org/anthology/D19-1274/)]
+
 **Jiaxin Shi**, Hanwang Zhang, and Juanzi Li. **Explainable and Explicit Visual Reasoning over Scene Graphs**. **CVPR 2019**.
 [[pdf](https://arxiv.org/abs/1812.01855)][[code](https://github.com/shijx12/XNM-Net)]
 
